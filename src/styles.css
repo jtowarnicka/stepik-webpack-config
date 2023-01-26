@@ -1,0 +1,17 @@
+div {
+  text-align: center;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+}
+
+h1 {
+  color: palevioletred;
+}
+
+img {
+  height: 500px;
+  justify-self: center;
+}
